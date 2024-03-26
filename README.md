@@ -62,7 +62,8 @@ Figure -02 HALF Subtractor
 
 
 Developed by: Vidhiya Lakshmi S
-RegisterNumber:*/ 212223230238
+
+RegisterNumber: 212223230238
 
 **RTL Schematic**
 
