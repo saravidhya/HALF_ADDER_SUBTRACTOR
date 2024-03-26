@@ -86,7 +86,7 @@ RegisterNumber: 212223230238
 
 **HALF SUBTRACTOR**:
 
-![Screenshot 2024-03-20 203142](https://github.com/saravidhya/HALF_ADDER_SUBTRACTOR/assets/87062069/a4087983-d110-4eca-aee1-5051f406409a)
+![Screenshot (87)](https://github.com/saravidhya/HALF_ADDER_SUBTRACTOR/assets/87062069/ccfc93cb-a6a3-4ce6-b8ed-056c8c9faf4f)
 
 
 
